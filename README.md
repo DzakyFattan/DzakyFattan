@@ -16,17 +16,17 @@ Bachelor of Informatics @ Bandung Institut of Technology (Informatics). Turning 
  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
  ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
- ![OpenGl](https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff)
- ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff)
+ ![OpenGl](https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff&style=for-the-badge)
+ ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff&style=for-the-badge)
 
- ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)
- ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
- ![SteamVR](https://img.shields.io/badge/SteamVR-%23232F3E.svg?logo=steam&logoColor=white)
+ ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white&style=for-the-badge)
+ ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white&style=for-the-badge)
+ ![SteamVR](https://img.shields.io/badge/SteamVR-%23232F3E.svg?logo=steam&logoColor=white&style=for-the-badge)
 
 ### Preferable Web Stack
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
- ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)
+ ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
@@ -37,16 +37,16 @@ Bachelor of Informatics @ Bandung Institut of Technology (Informatics). Turning 
 ### Others
  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
- ![Subversion](https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=fff)
+ ![Subversion](https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=fff&style=for-the-badge)
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
- ![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)
+ ![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff&style=for-the-badge)
 
 ### Currently Exploring
  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
- ![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)
- ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
- ![Vulkan](https://img.shields.io/badge/Vulkan-AE0F28?logo=Vulkan&logoColor=fff)
+ ![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white&style=for-the-badge)
+ ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
+ ![Vulkan](https://img.shields.io/badge/Vulkan-AE0F28?logo=Vulkan&logoColor=fff&style=for-the-badge)
  
  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
   
